@@ -1,1 +1,1 @@
-print("Orzysz to wioska")
+print("Orzysz to WIOSKA!")
